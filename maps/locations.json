@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Apple Boylston Street",
+        "address": "815 Boylston Street Boston, MA 02116",
+        "coordinators": [
+            42.349010,
+            -71.082440
+        ],
+        "open hours": [11,19]
+    },
+    {
+        "name": "Apple Tice's Corner",
+        "address": "441 Chestnut Ridge Road Woodcliff Lake, NJ 07677",
+        "coordinators": [
+            41.041820,
+            -74.074870
+        ],
+        "open hours": [10,20]
+    },
+    {
+        "name": "Apple Lynnhaven Mall",
+        "address": "701 Lynnhaven Parkway Virginia Beach, VA 23452",
+        "coordinators": [
+            36.819690,
+            -76.068080
+        ],
+        "open hours": [10,19]
+    },
+    {
+        "name": "Apple South Coast Plaza",
+        "address": "3333 Bear Street Costa Mesa, CA 92626",
+        "coordinators": [
+            33.691582,
+            -117.892761
+        ],
+        "open hours": [10,20]
+    },
+    {
+        "name": "Apple Trumbull",
+        "address": "5065 Main Street Trumbull, CT 06611",
+        "coordinators": [
+            41.229622,
+            -73.226997
+        ],
+        "open hours": [10,20]
+    },
+    {
+        "name": "Apple Bay Street",
+        "address": "5640 Bay Street Emeryville, CA 94608",
+        "coordinators": [
+            37.8349321,
+            -122.2922108
+        ],
+        "open hours": [10,19]
+    },
+    {
+        "name": "Apple Woodland",
+        "address": "3195 28th Street Grand Rapids, MI 49512",
+        "coordinators": [
+            42.912579,
+            -85.589128
+        ],
+        "open hours": [10,18]
+    },
+    {
+        "name": "Apple Suburban Square",
+        "address": "61 St. James Place Ardmore, PA 19003",
+        "coordinators": [
+            40.0087836,
+            -75.2879203
+        ],
+        "open hours": [10,18]
+    },
+    {
+        "name": "Apple Cherry Creek",
+        "address": "3000 E 1st Avenue Denver, CO 80206",
+        "coordinators": [
+            39.7166139,
+            -104.9524963
+        ],
+        "open hours": [10,21]
+    },
+    {
+        "name": "Apple Legacy Place",
+        "address": "508 Legacy Place Dedham, MA 02026",
+        "coordinators": [
+            42.2304041,
+            -71.1779747
+        ],
+        "open hours": [10,20]
+    },
+    {
+        "name": "Apple Bridgeport Village",
+        "address": "7293 SW Bridgeport Rd, Portland, OR, United States",
+        "coordinators": [
+            45.39470291137695,
+            -122.75211334228516
+        ],
+        "open hours": [10,20]
+    },
+    {
+        "name": "Apple Scottsdale Fashion Square",
+        "address": "7014 East Camelback Road Scottsdale, AZ 85251",
+        "coordinators": [
+            33.5029399,
+            -111.9293996
+        ],
+        "open hours": [10,21]
+    }
+]
